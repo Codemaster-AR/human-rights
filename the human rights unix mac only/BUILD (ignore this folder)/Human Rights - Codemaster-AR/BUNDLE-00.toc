@@ -1,0 +1,3 @@
+([('Human Rights - Anay Rustogi',
+   '/Users/Anay_Rustogi/dist/Human Rights - Anay Rustogi',
+   'EXECUTABLE')],)
